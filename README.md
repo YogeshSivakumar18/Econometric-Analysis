@@ -1,4 +1,4 @@
-# 📈 Econometrics Analysis on Employee Investment & Profitability
+# Econometrics Analysis on Employee Investment & Profitability
 
 This project applies econometric techniques in **R** to analyze how investments in employee training and capital equipment influence profitability across 962 firms in the manufacturing, services, and ICT sectors.
 
