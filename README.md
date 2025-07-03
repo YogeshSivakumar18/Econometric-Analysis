@@ -25,3 +25,4 @@ To examine whether:
 
 - `Econometric-Analysis-report.docx` — Full econometric report on firm profitability
 - `Code File.Rhistory` — Code history from R session
+- `Firms-Profit-Data.xlsx` - Dataset
