@@ -23,6 +23,6 @@ To examine whether:
 
 ## Repository Contents
 
-- `Econometric-Analysis-report.docx` — Full econometric report on firm profitability
+- `Econometric Analysis report.docx` — Full econometric report on firm profitability
 - `Code File.Rhistory` — Code history from R session
-- `Firms-Profit-Data.xlsx` - Dataset
+- `Firms-Profit_Data.xlsx` - Dataset
